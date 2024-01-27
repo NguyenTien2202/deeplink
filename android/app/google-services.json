@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "864764432032",
+    "firebase_url": "https://image-da17f-default-rtdb.firebaseio.com",
+    "project_id": "image-da17f",
+    "storage_bucket": "image-da17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864764432032:android:d706489fe642c2f98d43c5",
+        "android_client_info": {
+          "package_name": "com.example.checkdeeplink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaCQK8JFSIIo0Md4EiTQxSRPsoczYFFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
